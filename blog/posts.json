@@ -3,6 +3,21 @@
   "siteName": "마이리얼트립 쿠폰",
   "baseUrl": "https://mrt.agd-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-23",
-  "posts": []
+  "updated": "2026-09-26",
+  "posts": [
+    {
+      "title": "마이리얼트립 할인쿠폰 코드 모음 - 예약 전에 미리 받아두지 마세요",
+      "slug": "myrealtrip-coupon-code-collection",
+      "date": "2026-09-26",
+      "description": "마이리얼트립 할인쿠폰 코드를 예약 전에 미리 정리했습니다. 항공권, 숙소, 투어·액티비티별로 쓸 수 있는 코드와 할인율을 결제 전에 확인해보세요.",
+      "image": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDc5NTczfDB8MXxzZWFyY2h8MXx8c3VpdGNhc2UlMjBhaXJwb3J0JTIwZGVwYXJ0dXJlfGVufDF8MHx8fDE3OTA0MTQ1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "source": "unsplash",
+        "authorName": "Briana Tozour",
+        "authorUrl": "https://unsplash.com/@britozour?utm_source=blog-admin&utm_medium=referral",
+        "photoUrl": "https://unsplash.com/photos/people-walking-through-sunlit-airport-terminal-rUXh5USKfUQ?utm_source=blog-admin&utm_medium=referral",
+        "siteUrl": "https://unsplash.com?utm_source=blog-admin&utm_medium=referral"
+      }
+    }
+  ]
 }
