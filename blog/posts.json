@@ -3,8 +3,15 @@
   "siteName": "마이리얼트립 쿠폰",
   "baseUrl": "https://mrt.agd-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-26",
+  "updated": "2026-09-29",
   "posts": [
+    {
+      "title": "마이리얼트립 쿠폰 여행지별 사용법 - 일본·동남아시아·유럽",
+      "slug": "myrealtrip-coupon-destination-guide",
+      "date": "2026-09-29",
+      "description": "마이리얼트립 쿠폰을 일본, 동남아시아, 유럽 등 여행지별로 적용하는 순서와 예약 단계마다 확인해야 할 점을 정리했습니다.",
+      "image": ""
+    },
     {
       "title": "마이리얼트립 할인쿠폰 코드 모음 - 예약 전에 미리 받아두지 마세요",
       "slug": "myrealtrip-coupon-code-collection",
